@@ -1,9 +1,10 @@
 # My-Interesting-Datasets
-<img src="static/logo.png" style="zoom:25%;" />
+![logo](static/logo.png)
 
 <h3 align="center">
     一个有意思的数据集集合
 </h3>
+
 
 
 ## 简介
@@ -214,6 +215,7 @@
 
 <details>
 <summary>早期数据集</summary>
+
 > 一些早期构造的数据集。
 
 **Chinese-Classics-Partial**
