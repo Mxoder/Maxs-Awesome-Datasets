@@ -36,7 +36,6 @@
 
 <details>
 <summary>展开更多</summary>
-
 [25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集
 
 [24/09/09] 发布了大规模中英合成翻译数据集 [BiST](https://huggingface.co/datasets/Mxode/BiST)，目前数据量 50M+，未来将继续扩充
@@ -47,7 +46,7 @@
 
 [24/09/06] 发布了 [Magpie-Pro-10K-GPT4o-mini](https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini)，一个英文指令微调数据集
 
-[24/01/07] 发布了[一只猫猫的说话语录](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
+[24/01/07] 发布了 [一只猫猫的说话语录](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
 
 [23/10/03] 发布了 [CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)，为 CSDN - C 语言社区 2020.10.2 ~ 2023.10.2 的问答数据
 
