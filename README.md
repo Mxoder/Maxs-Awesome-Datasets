@@ -1,4 +1,4 @@
-# My-Interesting-Datasets
+# Max's Datasets
 <p align="center">
   <img src="static/logo.png" alt="logo" /> </p>
 
