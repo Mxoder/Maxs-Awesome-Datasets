@@ -36,7 +36,7 @@
 
 <details>
 <summary>展开更多</summary>
-[25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集：[Fineweb-Edu-Chinese-V2.1-merged-score4_5](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5) 和 [Fineweb-Edu-Chinese-V2_1-subset-5M](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2_1-subset-5M)
+[25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集
 
 [24/09/09] 发布了大规模中英合成翻译数据集 [BiST](https://huggingface.co/datasets/Mxode/BiST)，目前数据量 50M+，未来将继续扩充
 
