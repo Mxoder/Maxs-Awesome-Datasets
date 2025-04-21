@@ -273,11 +273,11 @@
 ## 引用
 
 ```bibtex
-@misc{zhang2025interestingdatasets,
-      title={My-Interesting-Datasets},
+@misc{zhang2025maxawesomedatasets,
+      title={Max's Awesome Datasets},
       author={Max Zhang},
       year={2025},
-      howpublished = {\url{https://github.com/Mxoder/My-Interesting-Datasets}},
+      howpublished = {\url{https://github.com/Mxoder/Maxs-Awesome-Datasets}},
 }
 ```
 
