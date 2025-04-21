@@ -1,8 +1,6 @@
 # Max's Awesome Datasets
 <p align="center">
   <img src="static/logo.png" alt="logo" /> </p>
-
-
 <h3 align="center">
     一个有意思的数据集集合
 </h3>
@@ -22,24 +20,37 @@
 
 ## News
 
-[25/04/21] todo
+[25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
-[25/04/21] todo
+[25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
-[25/04/21] todo
+[25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
 
-[25/04/21] todo
+[25/04/21] 发布了 [Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)，一个中文开放式问答推理数据集
+
+[25/04/21] 发布了 [Math-Chinese-DeepSeek-R1-10K](https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K)，一个中文 DeepSeek-R1-Distil 数学指令微调数据集
+
+[25/04/21] 发布了 [Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)，一个中文医疗指令微调数据集
+
+[25/04/19] 发布了 [Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)，一个大规模、多领域的高质量中文微调数据集，目前数据量 3M+
 
 <details>
 <summary>展开更多</summary>
+[25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集：[1](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5)，[2](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2_1-subset-5M)
 
-[25/04/21] todo
+[24/09/09] 发布了大规模中英合成翻译数据集 [BiST](https://huggingface.co/datasets/Mxode/BiST)，目前数据量 50M+，未来将继续扩充
 
-[25/04/21] todo
+[24/09/07] 清洗重整了 IndustryCorpus 的子集，中英双语：[IndustryCorpus-Subset-zh-en](https://huggingface.co/datasets/Mxode/IndustryCorpus-Subset-zh-en)
 
-[25/04/21] todo
+[24/09/07] 发布了 Firefly-1.1M-Rephrased，包含[单轮数据集](https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased)和[多轮数据集](https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K)
 
-[25/04/21] todo
+[24/09/06] 发布了 [Magpie-Pro-10K-GPT4o-mini](https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini)，一个英文指令微调数据集
+
+[24/01/07] 发布了[一只猫猫的说话语录](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
+
+[23/10/03] 发布了 [CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)，为 CSDN - C 语言社区 2020.10.2 ~ 2023.10.2 的问答数据
+
+[23/10/02] 发布了 [StackOverflow-QA-C-Language-40k](https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k)，为 StackOverflow 上关于 C 语言的问答数据，源语言为英文
 
 </details>
 
@@ -101,7 +112,6 @@
 
 - 简介：一只猫猫的说话语录。格式为一般的指令微调格式。
 - 规模：34K
-- 详情：[Meow-Instruct-34k 文档](doc/Meow-Instruct-34k.md)
 - 链接：https://huggingface.co/datasets/Mxode/Meow-Instruct-34k
 
 
@@ -116,14 +126,14 @@
 
 - 简介：中文指令微调数据集，对原 Firefly-1.1M 数据集做了清洗和增强。
 - 规模：1.1M
-- 详情：[Firefly-1.1M-Rephrased 文档](doc/Firefly-1.1M-Rephrased.md)
+- 详情：[Firefly-Rephrased 文档](doc/Firefly-Rephrased.md)
 - 链接：https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased
 
 **Firefly-Rephrased-Multiturn-300K**
 
 - 简介：中文多轮指令微调数据集，由 Firefly-1.1M-Rephrased 合成。
 - 规模：300K
-- 详情：[Firefly-Rephrased-Multiturn-300K 文档](doc/Firefly-Rephrased-Multiturn-300K.md)
+- 详情：[Firefly-Rephrased 文档](doc/Firefly-Rephrased.md)
 - 链接：https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K
 
 **Chinese-StackOverflow-QA-C_Language**
@@ -152,14 +162,12 @@
 
 - 简介：中文开放式问答推理数据集，全新构造，非其他数据集的子集或翻译版本。
 - 规模：50K
-- 详情：[Chinese-OpenQA-Reasoning-50K 文档](doc/Chinese-OpenQA-Reasoning-50K.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K
 
 **School-Math-R1-Distil-Chinese-220K**
 
 - 简介：难度很低的小学数学推理数据集。从[原数据集](https://huggingface.co/datasets/BelleGroup/school_math_0.25M)提取指令后，重新合成的回复。
 - 规模：220K
-- 详情：[School-Math-R1-Distil-Chinese-220K 文档](doc/School-Math-R1-Distil-Chinese-220K.md)
 - 链接：https://huggingface.co/datasets/Mxode/School-Math-R1-Distil-Chinese-220K
 
 
@@ -215,10 +223,13 @@
 
 
 
-<details>
-<summary>早期数据集</summary>
+
+### 早期数据集
 
 > 一些早期构造的数据集。
+
+<details>
+<summary>展开</summary>
 
 **Chinese-Classics-Partial**
 
