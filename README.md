@@ -1,5 +1,5 @@
 # My-Interesting-Datasets
-![logo](static/logo.png)
+<img src="static/logo.png" alt="logo" />
 
 <h3 align="center">
     一个有意思的数据集集合
