@@ -1,4 +1,4 @@
-# Max's Datasets
+# Max's Awesome Datasets
 <p align="center">
   <img src="static/logo.png" alt="logo" /> </p>
 
