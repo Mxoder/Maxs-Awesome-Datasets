@@ -30,6 +30,9 @@
 
 [25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
 
+<details>
+<summary>展开更多</summary>
+
 [25/04/21] 发布了 [Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)，一个中文开放式问答推理数据集
 
 [25/04/21] 发布了 [Math-Chinese-DeepSeek-R1-10K](https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K)，一个中文 DeepSeek-R1-Distil 数学指令微调数据集
@@ -37,9 +40,6 @@
 [25/04/21] 发布了 [Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)，一个中文医疗指令微调数据集
 
 [25/04/19] 发布了 [Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)，一个大规模、多领域的高质量中文微调数据集，目前数据量 3M+
-
-<details>
-<summary>展开更多</summary>
 
 [25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集
 
