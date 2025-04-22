@@ -20,6 +20,8 @@
 
 ## News
 
+[25/04/21] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
+
 [25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
 [25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
@@ -123,6 +125,12 @@
 
 > 一般的指令微调数据集。
 
+**IndustryInstruction-Chinese**
+
+- 简介：中文行业指令数据集，清洗自 [BAAI/IndustryInstruction](https://huggingface.co/datasets/BAAI/IndustryInstruction)，包含多轮与单轮对话。
+- 规模：1M+
+- 链接：https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese
+
 **Firefly-1.1M-Rephrased**
 
 - 简介：中文指令微调数据集，对原 Firefly-1.1M 数据集做了清洗和增强。
@@ -177,9 +185,9 @@
 
 
 
-### 组合数据集
+### 基础数据集
 
-> 主要工作来源于其他数据集，仅做了一些小改动（重整、过滤、清洗等）。
+> 一些整理清洗过滤的基础数据集。
 
 **Fineweb-Edu-Chinese-V2.1-merged-score4_5**
 
