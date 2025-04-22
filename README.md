@@ -20,7 +20,9 @@
 
 ## News
 
-[25/04/21] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
+[25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林渔牧问答数据集
+
+[25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
 [25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
@@ -130,6 +132,12 @@
 - 简介：中文行业指令数据集，清洗自 [BAAI/IndustryInstruction](https://huggingface.co/datasets/BAAI/IndustryInstruction)，包含多轮与单轮对话。
 - 规模：1M+
 - 链接：https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese
+
+**Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery**
+
+- 简介：中文农林渔牧问答数据集，涵盖农业、林业、畜牧业、渔业，数据量 1M+。
+- 规模：1M+
+- 链接：https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery
 
 **Firefly-1.1M-Rephrased**
 
