@@ -156,7 +156,7 @@
 **Chinese-StackOverflow-QA-C_Language**
 
 - 简介：中文 StackOverflow C 语言问答数据集，包含原数据集的翻译版本和新合成的指令微调版本。
-- 规模：200K（合成）+40K（翻译）
+- 规模：200K（合成）+ 40K（翻译）
 - 详情：[Chinese-StackOverflow-QA-C_Language 文档](doc/Chinese-StackOverflow-QA-C_Language.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language
 
