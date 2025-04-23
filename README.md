@@ -83,6 +83,7 @@
 
 - 简介：像猫猫一样思考！R1 格式的推理数据集，不同于一般的推理数据集，这里全部都是猫猫语气的思考和回复。
 - 规模：100K
+- 详情：[知乎文章 - 像猫猫一样思考！猫猫的推理数据集](https://zhuanlan.zhihu.com/p/1898515518887026761)
 - 链接：https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K
 
 **Chinese-Reasoning-Distil-Data** 🚧
