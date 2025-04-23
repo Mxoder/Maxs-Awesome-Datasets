@@ -20,6 +20,8 @@
 
 ## News
 
+[25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
+
 [25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林渔牧问答数据集
 
 [25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
@@ -28,10 +30,10 @@
 
 [25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
-[25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
-
 <details>
 <summary>展开更多</summary>
+
+[25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
 
 [25/04/21] 发布了 [Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)，一个中文开放式问答推理数据集
 
@@ -213,6 +215,12 @@
 ### 其他数据集
 
 > 其他类型的数据集。
+
+**Psychologist-psiholog-zh_ru**
+
+- 简介：中俄双语心理咨询数据集，源数据采集自 psiholog.ru，做了清洗整理翻译。
+- 规模：17K+
+- 链接：https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru
 
 **StackOverflow-QA-C-Language-40k**
 
