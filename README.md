@@ -75,42 +75,37 @@
 
 - 简介：大规模中文指令微调数据集，相较于已有的中文指令微调数据集，具备更高的质量、更多指令来源、更大的规模。
 - 规模：3.6M+
-- 详情：[Chinese-Instruct 文档](doc/Chinese-Instruct.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-Instruct
 
 **Meow-Reasoning-100K**
 
 - 简介：像猫猫一样思考！R1 格式的推理数据集，不同于一般的推理数据集，这里全部都是猫猫语气的思考和回复。
 - 规模：100K
-- 详情：[Meow-Reasoning-100K 文档](doc/Meow-Reasoning-100K.md)
 - 链接：https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K
 
 **Chinese-Reasoning-Distil-Data** 🚧
 
 - 简介：中文推理蒸馏数据集，包含指令、思考过程、回复，全新构造，非其他数据集的子集或翻译版本。
 - 规模：56K
-- 详情：[Chinese-Reasoning-Distil-Data 文档](doc/Chinese-Reasoning-Distil-Data.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data
 
 **BiST** (**Bi**lingual **S**ynthetic **T**ranslation dataset) 🚧
 
 - 简介：大规模中英双语翻译数据集，采集真实语料，多步骤过滤、清洗、合成、校验。
 - 规模：57M
-- 详情：[BiST 文档](doc/BiST.md)
+- 详情：[知乎文章：BiST](https://zhuanlan.zhihu.com/p/1898342192403163133)
 - 链接：https://huggingface.co/datasets/Mxode/BiST
 
 **Chinese-Medical-Instruct-1M**
 
 - 简介：中文医疗指令微调数据集，回复依赖于真实参考源。
 - 规模：1M
-- 详情：[Chinese-Medical-Instruct-1M 文档](doc/Chinese-Medical-Instruct-1M.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M
 
 **Math-Chinese-DeepSeek-R1-10K**
 
 - 简介：中文 DeepSeek-R1-Distil 数学指令微调数据集，所有答案均经过正确性校验。
 - 规模：10K
-- 详情：[Math-Chinese-DeepSeek-R1-10K 文档](doc/Math-Chinese-DeepSeek-R1-10K.md)
 - 链接：https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K
 
 **Meow-Instruct-34k**
@@ -143,28 +138,24 @@
 
 - 简介：中文指令微调数据集，对原 Firefly-1.1M 数据集做了清洗和增强。
 - 规模：1.1M
-- 详情：[Firefly-Rephrased 文档](doc/Firefly-Rephrased.md)
 - 链接：https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased
 
 **Firefly-Rephrased-Multiturn-300K**
 
 - 简介：中文多轮指令微调数据集，由 Firefly-1.1M-Rephrased 合成。
 - 规模：300K
-- 详情：[Firefly-Rephrased 文档](doc/Firefly-Rephrased.md)
 - 链接：https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K
 
 **Chinese-StackOverflow-QA-C_Language**
 
 - 简介：中文 StackOverflow C 语言问答数据集，包含原数据集的翻译版本和新合成的指令微调版本。
 - 规模：200K（合成）+ 40K（翻译）
-- 详情：[Chinese-StackOverflow-QA-C_Language 文档](doc/Chinese-StackOverflow-QA-C_Language.md)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language
 
 **Magpie-Pro-10K-GPT4o-mini**
 
 - 简介：英文指令微调数据集，从原 Magpie 数据集挑选指令改写后，重新用 GPT4o-mini 合成回复。
 - 规模：10K
-- 详情：[Magpie-Pro-10K-GPT4o-mini 文档](doc/Magpie-Pro-10K-GPT4o-mini.md)
 - 链接：https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini
 
 
