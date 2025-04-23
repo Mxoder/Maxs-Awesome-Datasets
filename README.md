@@ -89,13 +89,14 @@
 
 - 简介：中文推理蒸馏数据集，包含指令、思考过程、回复，全新构造，非其他数据集的子集或翻译版本。
 - 规模：56K
+- 详情：[知乎文章 - 新的中文推理蒸馏数据集：Chinese-Reasoning-Distil-Data](https://zhuanlan.zhihu.com/p/1898405616860521535)
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data
 
 **BiST** (**Bi**lingual **S**ynthetic **T**ranslation dataset) 🚧
 
 - 简介：大规模中英双语翻译数据集，采集真实语料，多步骤过滤、清洗、合成、校验。
 - 规模：57M
-- 详情：[知乎文章：BiST](https://zhuanlan.zhihu.com/p/1898342192403163133)
+- 详情：[知乎文章 - BiST](https://zhuanlan.zhihu.com/p/1898342192403163133)
 - 链接：https://huggingface.co/datasets/Mxode/BiST
 
 **Chinese-Medical-Instruct-1M**
