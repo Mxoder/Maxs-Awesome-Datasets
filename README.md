@@ -11,7 +11,7 @@
 
 这个仓库收录了我**个人自建**的数据集，所有数据集均已上传至 Hugging Face，欢迎使用和提出建议。
 
-我的 Hugging Face 主页：https://huggingface.co/Mxode。
+我的 Hugging Face 主页：[huggingface.co/Mxode](https://huggingface.co/Mxode)。
 
 本仓库与数据集将会持续更新，如果你觉得我的数据集有用，可以点个 star 鼓励一下！
 
