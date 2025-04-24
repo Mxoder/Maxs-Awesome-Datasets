@@ -22,7 +22,7 @@
 
 [25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
 
-[25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林渔牧问答数据集
+[25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林牧渔问答数据集
 
 [25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
@@ -134,8 +134,8 @@
 
 **Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery**
 
-- 简介：中文农林渔牧问答数据集，涵盖农业、林业、畜牧业、渔业，数据量 1M+。
-- 规模：1M+
+- 简介：中文农林牧渔问答数据集，涵盖农业、林业、畜牧业、渔业，数据量 900K+。
+- 规模：900K+
 - 链接：https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery
 
 **Firefly-1.1M-Rephrased**
