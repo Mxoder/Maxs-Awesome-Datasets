@@ -20,18 +20,20 @@
 
 ## News
 
+[25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 300 万，**非常适合用于学习从零训练中文大模型**
+
 [25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
 
 [25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林牧渔问答数据集
 
 [25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
-[25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
-
 [25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
 <details>
 <summary>展开更多</summary>
+
+[25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
 [25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
 
@@ -76,48 +78,48 @@
 **Chinese-Instruct** 🚧
 
 - 简介：大规模中文指令微调数据集，相较于已有的中文指令微调数据集，具备更高的质量、更多指令来源、更大的规模。
-- 规模：3.6M+
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-Instruct
-
-**Meow-Reasoning-100K**
-
-- 简介：像猫猫一样思考！R1 格式的推理数据集，不同于一般的推理数据集，这里全部都是猫猫语气的思考和回复。
-- 规模：100K
-- 详情：[知乎文章 - 像猫猫一样思考！猫猫的推理数据集](https://zhuanlan.zhihu.com/p/1898515518887026761)
-- 链接：https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K
+- 规模：4.5M+
+- 链接：[Mxode/Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)
 
 **Chinese-Reasoning-Distil-Data** 🚧
 
 - 简介：中文推理蒸馏数据集，包含指令、思考过程、回复，全新构造，非其他数据集的子集或翻译版本。
-- 规模：56K
+- 规模：180K
 - 详情：[知乎文章 - 新的中文推理蒸馏数据集：Chinese-Reasoning-Distil-Data](https://zhuanlan.zhihu.com/p/1898405616860521535)
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data
+- 链接：[Mxode/Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)
 
 **BiST** (**Bi**lingual **S**ynthetic **T**ranslation dataset) 🚧
 
 - 简介：大规模中英双语翻译数据集，采集真实语料，多步骤过滤、清洗、合成、校验。
 - 规模：57M
 - 详情：[知乎文章 - BiST](https://zhuanlan.zhihu.com/p/1898342192403163133)
-- 链接：https://huggingface.co/datasets/Mxode/BiST
+- 链接：[Mxode/BiST](https://huggingface.co/datasets/Mxode/BiST)
 
-**Chinese-Medical-Instruct-1M**
+**I_Wonder_Why-Chinese**
 
-- 简介：中文医疗指令微调数据集，回复依赖于真实参考源。
-- 规模：1M
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M
+- 简介：一个中文百科开放问答数据集，涵盖 SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务，适合用于学习从零训练中文大模型
+- 规模：超过 60 万条指令 + 超过 300 万条回复
+- 详情：[知乎文章 - 可能是最适合用于学习从零训练中文大模型的数据集！](https://zhuanlan.zhihu.com/p/1899677366940328267)
+- 链接：[Mxode/I_Wonder_Why-Chinese](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)
 
 **Math-Chinese-DeepSeek-R1-10K**
 
 - 简介：中文 DeepSeek-R1-Distil 数学指令微调数据集，所有答案均经过正确性校验。
 - 规模：10K
-- 链接：https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K
+- 链接：[Mxode/Math-Chinese-DeepSeek-R1-10K](https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K)
 
-**Meow-Instruct-34k**
+**Meow-Reasoning-100K**
 
-- 简介：一只猫猫的说话语录。格式为一般的指令微调格式。
-- 规模：34K
-- 链接：https://huggingface.co/datasets/Mxode/Meow-Instruct-34k
+- 简介：像猫猫一样思考！R1 格式的推理数据集，不同于一般的推理数据集，这里全部都是猫猫语气的思考和回复。
+- 规模：100K
+- 详情：[知乎文章 - 像猫猫一样思考！猫猫的推理数据集](https://zhuanlan.zhihu.com/p/1898515518887026761)
+- 链接：[Mxode/Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)
 
+**Chinese-Medical-Instruct-1M**
+
+- 简介：中文医疗指令微调数据集，回复依赖于真实参考源。
+- 规模：1M
+- 链接：[Mxode/Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)
 
 
 
@@ -130,38 +132,43 @@
 
 - 简介：中文行业指令数据集，清洗自 [BAAI/IndustryInstruction](https://huggingface.co/datasets/BAAI/IndustryInstruction)，包含多轮与单轮对话。
 - 规模：1M+
-- 链接：https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese
+- 链接：[Mxode/IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)
 
 **Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery**
 
 - 简介：中文农林牧渔问答数据集，涵盖农业、林业、畜牧业、渔业，数据量 900K+。
 - 规模：900K+
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery
+- 链接：[Mxode/Chinese-QA-AFAF](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)
 
 **Firefly-1.1M-Rephrased**
 
 - 简介：中文指令微调数据集，对原 Firefly-1.1M 数据集做了清洗和增强。
 - 规模：1.1M
-- 链接：https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased
+- 链接：[Mxode/Firefly-1.1M-Rephrased](https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased)
 
 **Firefly-Rephrased-Multiturn-300K**
 
 - 简介：中文多轮指令微调数据集，由 Firefly-1.1M-Rephrased 合成。
 - 规模：300K
-- 链接：https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K
+- 链接：[Mxode/Firefly-Rephrased-Multiturn-300K](https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K)
 
 **Chinese-StackOverflow-QA-C_Language**
 
 - 简介：中文 StackOverflow C 语言问答数据集，包含原数据集的翻译版本和新合成的指令微调版本。
 - 规模：200K（合成）+ 40K（翻译）
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language
+- 链接：[Mxode/Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)
 
 **Magpie-Pro-10K-GPT4o-mini**
 
 - 简介：英文指令微调数据集，从原 Magpie 数据集挑选指令改写后，重新用 GPT4o-mini 合成回复。
 - 规模：10K
-- 链接：https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini
+- 链接：[Mxode/Magpie-Pro-10K-GPT4o-mini](https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini)
 
+**Meow-Instruct-34k**
+
+- 简介：一只猫猫的说话语录。格式为一般的指令微调格式。
+- 规模：34K
+- 链接：[Mxode/Meow-Instruct-34k](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
 
 
 
@@ -174,13 +181,13 @@
 
 - 简介：中文开放式问答推理数据集，全新构造，非其他数据集的子集或翻译版本。
 - 规模：50K
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K
+- 链接：[Mxode/Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)
 
 **School-Math-R1-Distil-Chinese-220K**
 
 - 简介：难度很低的小学数学推理数据集。从[原数据集](https://huggingface.co/datasets/BelleGroup/school_math_0.25M)提取指令后，重新合成的回复。
 - 规模：220K
-- 链接：https://huggingface.co/datasets/Mxode/School-Math-R1-Distil-Chinese-220K
+- 链接：[Mxode/School-Math-R1-Distil-Chinese-220K](https://huggingface.co/datasets/Mxode/School-Math-R1-Distil-Chinese-220K)
 
 
 
@@ -196,19 +203,19 @@
 
 - 简介：[Fineweb-Edu-Chinese-V2.1](https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.1) 的评分为 4~5 的数据的子集，对原数据集的细切片进行了合并。
 - 规模：17M+
-- 链接：https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5
+- 链接：[Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5)
 
 **Fineweb-Edu-Chinese-V2_1-subset-5M**
 
 - 简介：[Fineweb-Edu-Chinese-V2.1](https://huggingface.co/datasets/opencsg/Fineweb-Edu-Chinese-V2.1) 的一个子集，做了简单清洗过滤。
 - 规模：5M
-- 链接：https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2_1-subset-5M
+- 链接：[Mxode/Fineweb-Edu-Chinese-V2_1-subset-5M](https://huggingface.co/datasets/Mxode/Fineweb-Edu-Chinese-V2_1-subset-5M)
 
 **IndustryCorpus-Subset-zh-en**
 
 - 简介：[IndustryCorpus](https://huggingface.co/datasets/BAAI/IndustryCorpus) 的一个子集，包含各领域，做了简单清洗过滤。
 - 规模：2.7M
-- 链接：https://huggingface.co/datasets/Mxode/IndustryCorpus-Subset-zh-en
+- 链接：[Mxode/IndustryCorpus-Subset-zh-en](https://huggingface.co/datasets/Mxode/IndustryCorpus-Subset-zh-en)
 
 
 
@@ -222,19 +229,19 @@
 
 - 简介：中俄双语心理咨询数据集，源数据采集自 psiholog.ru，做了清洗整理翻译。
 - 规模：17K+
-- 链接：https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru
+- 链接：[Mxode/Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)
 
 **StackOverflow-QA-C-Language-40k**
 
 - 简介：StackOverflow 上关于 C 语言的问答数据集，源语言为英文。
 - 规模：40K
-- 链接：https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k
+- 链接：[Mxode/StackOverflow-QA-C-Language-40k](https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k)
 
 **CSDN-Community-C-Language-3years**
 
 - 简介：CSDN 上关于 C 语言的问答数据集，时间跨度为 3 年。
 - 规模：2.3K
-- 链接：https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years
+- 链接：[Mxode/CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)
 
 
 
@@ -253,37 +260,37 @@
 
 - 简介：古籍相关的文本，进行了简单清洗。
 - 规模：200+篇 / 460K 行
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-Classics-Partial
+- 链接：[Mxode/Chinese-Classics-Partial](https://huggingface.co/datasets/Mxode/Chinese-Classics-Partial)
 
 **Baike-Astronomy-ZH**
 
 - 简介：天文学百科，包含 8 个子目录。
 - 规模：1K 条词条
-- 链接：https://huggingface.co/datasets/Mxode/Baike-Astronomy-ZH
+- 链接：[Mxode/Baike-Astronomy-ZH](https://huggingface.co/datasets/Mxode/Baike-Astronomy-ZH)
 
 **C-Language-Chat-Debug-Multiturn-Zh**
 
 - 简介：C 语言场景的 user - assistant 多轮对话。
 - 规模：1.3K
-- 链接：https://huggingface.co/datasets/Mxode/C-Language-Chat-Debug-Multiturn-Zh
+- 链接：[Mxode/C-Language-Chat-Debug-Multiturn-Zh](https://huggingface.co/datasets/Mxode/C-Language-Chat-Debug-Multiturn-Zh)
 
 **DPO-arxiv_paraphrase**
 
 - 简介：根据 arxiv 论文摘要，合成的改写偏好数据集，`chosen` 字段为摘要原文，`rejected` 字段为模型合成。
 - 规模：200K
-- 链接：https://huggingface.co/datasets/Mxode/DPO-arxiv_paraphrase
+- 链接：[Mxode/DPO-arxiv_paraphrase](https://huggingface.co/datasets/Mxode/DPO-arxiv_paraphrase)
 
 **University-News-Instruction-Zh**
 
 - 简介：某高校校园新闻数据集，合成了三类任务：标题总结、栏目分类、新闻生成。
 - 规模：65K * 3（类任务）
-- 链接：https://huggingface.co/datasets/Mxode/University-News-Instruction-Zh
+- 链接：[Mxode/University-News-Instruction-Zh](https://huggingface.co/datasets/Mxode/University-News-Instruction-Zh)
 
 **Chinese-English-Parallel-Synonym-Corpus-75k**
 
 - 简介：中英平行翻译改写语料对。
 - 规模：75K
-- 链接：https://huggingface.co/datasets/Mxode/Chinese-English-Parallel-Synonym-Corpus-75k
+- 链接：[Mxode/Chinese-English-Parallel-Synonym-Corpus-75k](https://huggingface.co/datasets/Mxode/Chinese-English-Parallel-Synonym-Corpus-75k)
 
 </details>
 
