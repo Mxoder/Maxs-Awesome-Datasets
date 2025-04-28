@@ -237,11 +237,11 @@
 - 规模：40K
 - 链接：[Mxode/StackOverflow-QA-C-Language-40k](https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k)
 
-**CSDN-Community-C-Language-3years**
+**CSDN-C_Language-2013_2023**
 
-- 简介：CSDN 上关于 C 语言的问答数据集，时间跨度为 3 年。
-- 规模：2.3K
-- 链接：[Mxode/CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)
+- 简介：CSDN 上关于 C 语言的问答数据集，时间跨度为 2013年 ~ 2023年。
+- 规模：29K+
+- 链接：[Mxode/CSDN-C_Language-2013_2023](https://huggingface.co/datasets/Mxode/CSDN-C_Language-2013_2023)
 
 
 
