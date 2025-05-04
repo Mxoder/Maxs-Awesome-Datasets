@@ -20,7 +20,7 @@
 
 ## News
 
-[25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 300 万，**非常适合用于学习从零训练中文大模型**
+[25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 600 万，**非常适合用于学习从零训练中文大模型**
 
 [25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
 
@@ -98,7 +98,7 @@
 **I_Wonder_Why-Chinese**
 
 - 简介：一个中文百科开放问答数据集，涵盖 SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务，适合用于学习从零训练中文大模型
-- 规模：超过 60 万条指令 + 超过 300 万条回复
+- 规模：超过 120 万条指令 + 超过 600 万条回复
 - 详情：[知乎文章 - 可能是最适合用于学习从零训练中文大模型的数据集！](https://zhuanlan.zhihu.com/p/1899677366940328267)
 - 链接：[Mxode/I_Wonder_Why-Chinese](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)
 
