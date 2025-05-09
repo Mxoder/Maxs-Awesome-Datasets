@@ -20,6 +20,8 @@
 
 ## News
 
+[25/05/09] 发布了 [Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)，一个简化版本的中文指令数据集，主题广泛，涵盖代码、数学、通用等领域，数据量 8.1M+，**适合用于学习从零训练中文大模型**
+
 [25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 600 万，**非常适合用于学习从零训练中文大模型**
 
 [25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
@@ -28,10 +30,10 @@
 
 [25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
-[25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
-
 <details>
 <summary>展开更多</summary>
+
+[25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
 [25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
@@ -101,6 +103,12 @@
 - 规模：超过 120 万条指令 + 超过 600 万条回复
 - 详情：[知乎文章 - 可能是最适合用于学习从零训练中文大模型的数据集！](https://zhuanlan.zhihu.com/p/1899677366940328267)
 - 链接：[Mxode/I_Wonder_Why-Chinese](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)
+
+**Chinese-Instruct-Lite**
+
+- 简介：简化版本的大规模中文指令微调数据集（并非子集），涵盖代码、数学、通用等领域，适合用于学习从零训练中文大模型
+- 规模：8.1M+
+- 链接：[Mxode/Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)
 
 **Math-Chinese-DeepSeek-R1-10K**
 
