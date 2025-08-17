@@ -140,6 +140,7 @@
 - 规模：1M
 - 链接：[Mxode/Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)
 
+</details>
 
 
 
