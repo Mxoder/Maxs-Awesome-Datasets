@@ -20,6 +20,8 @@
 
 ## News
 
+[25/08/17] 发布了 [📷 CAMS](https://huggingface.co/datasets/Mxode/CAMS)，一个大规模、多方面、基于属性的中文摘要数据集
+
 [25/05/09] 发布了 [Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)，一个简化版本的中文指令数据集，主题广泛，涵盖代码、数学、通用等领域，数据量 8.1M+，**适合用于学习从零训练中文大模型**
 
 [25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 600 万，**非常适合用于学习从零训练中文大模型**
@@ -28,10 +30,10 @@
 
 [25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林牧渔问答数据集
 
-[25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
-
 <details>
 <summary>展开更多</summary>
+
+[25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
 [25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
@@ -97,6 +99,12 @@
 - 详情：[知乎文章 - BiST](https://zhuanlan.zhihu.com/p/1898342192403163133)
 - 链接：[Mxode/BiST](https://huggingface.co/datasets/Mxode/BiST)
 
+**📷 CAMS** (**C**hinese **A**ttribute-based **M**ulti-faceted **S**ummarization Dataset)
+
+- 简介：一个大规模、多方面、基于属性的中文摘要数据集，为推进长文本摘要研究而设计，具备多层次摘要和丰富的属性标注。
+- 规模：1M
+- 链接：[Mxode/CAMS](https://huggingface.co/datasets/Mxode/CAMS)
+
 **I_Wonder_Why-Chinese**
 
 - 简介：一个中文百科开放问答数据集，涵盖 SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务，适合用于学习从零训练中文大模型
@@ -109,6 +117,9 @@
 - 简介：简化版本的大规模中文指令微调数据集（并非子集），涵盖代码、数学、通用等领域，适合用于学习从零训练中文大模型
 - 规模：8.1M+
 - 链接：[Mxode/Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)
+
+<details>
+<summary>展开更多</summary>
 
 **Math-Chinese-DeepSeek-R1-10K**
 
