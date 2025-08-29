@@ -20,50 +20,52 @@
 
 ## News
 
-[25/08/17] 发布了 [📷 CAMS](https://huggingface.co/datasets/Mxode/CAMS)，一个大规模、多方面、基于属性的中文摘要数据集
+[2025/08/29] 发布了 [💻 PolyDevTasks](https://huggingface.co/datasets/Mxode/PolyDevTasks-Chinese_English_German)，一个包含超过 38 万条编码任务指令的数据集，涵盖 3 种自然语言（中文、英文、德语）和 8 种编程语言（C、C#、C++、Go、Java、JavaScript、Python、Rust）。
 
-[25/05/09] 发布了 [Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)，一个简化版本的中文指令数据集，主题广泛，涵盖代码、数学、通用等领域，数据量 8.1M+，**适合用于学习从零训练中文大模型**
+[2025/08/17] 发布了 [📷 CAMS](https://huggingface.co/datasets/Mxode/CAMS)，一个大规模、多方面、基于属性的中文摘要数据集
 
-[25/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 600 万，**非常适合用于学习从零训练中文大模型**
+[2025/05/09] 发布了 [Chinese-Instruct-Lite](https://huggingface.co/datasets/Mxode/Chinese-Instruct-Lite)，一个简化版本的中文指令数据集，主题广泛，涵盖代码、数学、通用等领域，数据量 8.1M+，**适合用于学习从零训练中文大模型**
 
-[25/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
+[2025/04/27] 发布了 [「十万个为什么」](https://huggingface.co/datasets/Mxode/I_Wonder_Why-Chinese)，一个中文百科开放问答数据集，涵盖**SFT 指令微调、DPO 偏好强化学习、R1 类推理蒸馏任务**，数据量超过 600 万，**非常适合用于学习从零训练中文大模型**
 
-[25/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林牧渔问答数据集
+[2025/04/23] 发布了 [Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery](https://huggingface.co/datasets/Mxode/Chinese-QA-Agriculture_Forestry_Animal_Husbandry_Fishery)，一个中文农林牧渔问答数据集
 
 <details>
 <summary>展开更多</summary>
 
-[25/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
+[2025/04/23] 发布了 [Psychologist-psiholog-zh_ru](https://huggingface.co/datasets/Mxode/Psychologist-psiholog-zh_ru)，一个中俄双语心理咨询数据集
 
-[25/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
+[2025/04/22] 清洗整理了 [IndustryInstruction-Chinese](https://huggingface.co/datasets/Mxode/IndustryInstruction-Chinese)，一个中文行业指令数据集
 
-[25/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
+[2025/04/21] 发布了 [Chinese-Reasoning-Distil-Data](https://huggingface.co/datasets/Mxode/Chinese-Reasoning-Distil-Data)，一个中文推理蒸馏数据集
 
-[25/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
+[2025/04/21] 像猫猫一样思考！发布了推理数据集 [Meow-Reasoning-100K](https://huggingface.co/datasets/Mxode/Meow-Reasoning-100K)，全部是猫猫的思考和回复
 
-[25/04/21] 发布了 [Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)，一个中文开放式问答推理数据集
+[2025/04/21] 发布了 [Chinese-StackOverflow-QA-C_Language](https://huggingface.co/datasets/Mxode/Chinese-StackOverflow-QA-C_Language)，一个中文 StackOverflow C 语言问答数据集
 
-[25/04/21] 发布了 [Math-Chinese-DeepSeek-R1-10K](https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K)，一个中文 DeepSeek-R1-Distil 数学指令微调数据集
+[2025/04/21] 发布了 [Chinese-OpenQA-Reasoning-50K](https://huggingface.co/datasets/Mxode/Chinese-OpenQA-Reasoning-50K)，一个中文开放式问答推理数据集
 
-[25/04/21] 发布了 [Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)，一个中文医疗指令微调数据集
+[2025/04/21] 发布了 [Math-Chinese-DeepSeek-R1-10K](https://huggingface.co/datasets/Mxode/Math-Chinese-DeepSeek-R1-10K)，一个中文 DeepSeek-R1-Distil 数学指令微调数据集
 
-[25/04/19] 发布了 [Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)，一个大规模、多领域的高质量中文微调数据集，目前数据量 3M+
+[2025/04/21] 发布了 [Chinese-Medical-Instruct-1M](https://huggingface.co/datasets/Mxode/Chinese-Medical-Instruct-1M)，一个中文医疗指令微调数据集
 
-[25/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集
+[2025/04/19] 发布了 [Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)，一个大规模、多领域的高质量中文微调数据集，目前数据量 3M+
 
-[24/09/09] 发布了大规模中英合成翻译数据集 [BiST](https://huggingface.co/datasets/Mxode/BiST)，目前数据量 50M+，未来将继续扩充
+[2025/04/18] 抽取重整了 Fineweb-Edu-Chinese-V2.1 的两个子集
 
-[24/09/07] 清洗重整了 IndustryCorpus 的子集，中英双语：[IndustryCorpus-Subset-zh-en](https://huggingface.co/datasets/Mxode/IndustryCorpus-Subset-zh-en)
+[2024/09/09] 发布了大规模中英合成翻译数据集 [BiST](https://huggingface.co/datasets/Mxode/BiST)，目前数据量 50M+，未来将继续扩充
 
-[24/09/07] 发布了 Firefly-1.1M-Rephrased，包含[单轮数据集](https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased)和[多轮数据集](https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K)
+[2024/09/07] 清洗重整了 IndustryCorpus 的子集，中英双语：[IndustryCorpus-Subset-zh-en](https://huggingface.co/datasets/Mxode/IndustryCorpus-Subset-zh-en)
 
-[24/09/06] 发布了 [Magpie-Pro-10K-GPT4o-mini](https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini)，一个英文指令微调数据集
+[2024/09/07] 发布了 Firefly-1.1M-Rephrased，包含[单轮数据集](https://huggingface.co/datasets/Mxode/Firefly-1.1M-Rephrased)和[多轮数据集](https://huggingface.co/datasets/Mxode/Firefly-Rephrased-Multiturn-300K)
 
-[24/01/07] 发布了 [一只猫猫的说话语录](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
+[2024/09/06] 发布了 [Magpie-Pro-10K-GPT4o-mini](https://huggingface.co/datasets/Mxode/Magpie-Pro-10K-GPT4o-mini)，一个英文指令微调数据集
 
-[23/10/03] 发布了 [CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)，为 CSDN - C 语言社区 2020.10.2 ~ 2023.10.2 的问答数据
+[2024/01/07] 发布了 [一只猫猫的说话语录](https://huggingface.co/datasets/Mxode/Meow-Instruct-34k)
 
-[23/10/02] 发布了 [StackOverflow-QA-C-Language-40k](https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k)，为 StackOverflow 上关于 C 语言的问答数据，源语言为英文
+[2023/10/03] 发布了 [CSDN-Community-C-Language-3years](https://huggingface.co/datasets/Mxode/CSDN-Community-C-Language-3years)，为 CSDN - C 语言社区 2020.10.2 ~ 2023.10.2 的问答数据
+
+[2023/10/02] 发布了 [StackOverflow-QA-C-Language-40k](https://huggingface.co/datasets/Mxode/StackOverflow-QA-C-Language-40k)，为 StackOverflow 上关于 C 语言的问答数据，源语言为英文
 
 </details>
 
@@ -84,6 +86,12 @@
 - 简介：大规模中文指令微调数据集，相较于已有的中文指令微调数据集，具备更高的质量、更多指令来源、更大的规模。
 - 规模：4.5M+
 - 链接：[Mxode/Chinese-Instruct](https://huggingface.co/datasets/Mxode/Chinese-Instruct)
+
+**💻 PolyDevTasks: Multilingual Agentic Tasks for Software Development**
+
+- 简介：一个包含超过 38 万条编码任务指令的数据集，涵盖 3 种自然语言（中文、英文、德语）和 8 种编程语言（C、C#、C++、Go、Java、JavaScript、Python、Rust）。
+- 规模：380K+
+- 链接：[💻 PolyDevTasks](https://huggingface.co/datasets/Mxode/PolyDevTasks-Chinese_English_German)
 
 **Chinese-Reasoning-Distil-Data** 🚧
 
